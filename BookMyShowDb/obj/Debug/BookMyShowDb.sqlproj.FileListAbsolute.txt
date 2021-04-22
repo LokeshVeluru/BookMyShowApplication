@@ -1,0 +1,7 @@
+C:\Users\lokes\source\repos\BookMyShow\BookMyShowDb\bin\Debug\BookMyShowDb.dacpac
+C:\Users\lokes\source\repos\BookMyShow\BookMyShowDb\obj\Debug\Model.xml
+C:\Users\lokes\source\repos\BookMyShow\BookMyShowDb\obj\Debug\refactor.xml
+C:\Users\lokes\source\repos\BookMyShow\BookMyShowDb\obj\Debug\postdeploy.sql
+C:\Users\lokes\source\repos\BookMyShow\BookMyShowDb\obj\Debug\predeploy.sql
+C:\Users\lokes\source\repos\BookMyShow\BookMyShowDb\obj\Debug\BookMyShowDb.dll
+C:\Users\lokes\source\repos\BookMyShow\BookMyShowDb\obj\Debug\BookMyShowDb.pdb

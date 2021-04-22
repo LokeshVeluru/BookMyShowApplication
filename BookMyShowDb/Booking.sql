@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Booking]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [NoOfSeats] INT NOT NULL, 
+    [Time] DATETIME NOT NULL, 
+    [UserId] INT NOT NULL, 
+    [ShowId] INT NOT NULL,
+    CONSTRAINT [FK_BOOKING_USERID] FOREIGN KEY ([UserId]) REFERENCES [User]([Id]),
+    CONSTRAINT [FK_BOOKING_SHOWID] FOREIGN KEY ([ShowId]) REFERENCES [Show]([Id])
+)
